@@ -1,0 +1,17 @@
+# Core dependencies
+pypdf>=3.17.0
+faiss-cpu>=1.7.4
+sentence-transformers>=2.2.2
+numpy>=1.24.0
+
+# Optional: OpenAI for better LLM responses
+# Uncomment if you have an API key
+# openai>=1.12.0
+
+# Optional: For creating sample PDFs (testing only)
+# fpdf2>=2.7.0
+
+# Additional dependencies (auto-installed with above)
+# torch
+# transformers
+# huggingface-hub
